@@ -422,10 +422,15 @@ there.
 -----------------------------------------------------
 */
 .button-icon {
-    width: 2rem;
-    height: 2rem;
-    margin-top: 0.8rem;
+    width: 3rem;
+    height: 3rem;
 }
+
 .project-pic {
     width: 20rem;
     height: 20rem;
+}
+
+#projects {
+    text-align: center;
+}
